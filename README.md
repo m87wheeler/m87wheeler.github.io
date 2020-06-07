@@ -1,1 +1,2 @@
-# m87wheeler.github.io
+# mwwdd-portfolio-vanilla
+ HTML, SCSS, JS
